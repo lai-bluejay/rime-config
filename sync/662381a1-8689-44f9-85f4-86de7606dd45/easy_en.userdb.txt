@@ -1,0 +1,24 @@
+# Rime user dictionary
+#@/db_name	easy_en.userdb
+#@/db_type	userdb
+#@/rime_version	1.4.0
+#@/tick	19
+#@/user_id	662381a1-8689-44f9-85f4-86de7606dd45
+action 	action	c=1 d=1 t=19
+better 	better	c=1 d=1 t=8
+ensemble 	ensemble	c=1 d=1 t=2
+feature 	feature	c=1 d=1 t=3
+follow 	follow	c=1 d=1 t=16
+from 	from	c=1 d=1 t=7
+high 	high	c=1 d=1 t=1
+histogram 	histogram	c=1 d=1 t=17
+learning 	learning	c=1 d=1 t=4
+make 	make	c=1 d=1 t=14
+model 	model	c=1 d=1 t=6
+momentum 	momentum	c=2 d=1.98511 t=12
+offer 	offer	c=1 d=1 t=10
+policy 	policy	c=1 d=1 t=11
+review 	review	c=1 d=1 t=5
+special 	special	c=1 d=1 t=18
+version 	version	c=1 d=1 t=13
+watson 	watson	c=1 d=1 t=15
